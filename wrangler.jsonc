@@ -11,7 +11,7 @@
     {
       "binding": "DB",
       "database_name": "onbarber-db",
-      "database_id": "418b2d11-1827-4ff0-8ac1-1e720c55eabb",
+      "database_id": "c95f138e-cc0b-4872-9b97-a21e270f75b1",
       "migrations_dir": "drizzle"
     }
   ],
